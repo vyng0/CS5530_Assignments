@@ -1,0 +1,2 @@
+"mean_strength","median_strength","correlation_age_strength"
+26,27,0.133756442387474
